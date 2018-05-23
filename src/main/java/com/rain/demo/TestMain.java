@@ -5,8 +5,7 @@ public class TestMain {
 		System.out.println("Hello, Git!");
 		System.out.println("Good");
 		System.out.println("Go!");
-		System.out.println("Go1!");
-		System.out.println("branch1!");
+		System.out.println("f2!");
 	}
 
 }
