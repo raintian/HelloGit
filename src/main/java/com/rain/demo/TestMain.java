@@ -7,6 +7,7 @@ public class TestMain {
 		System.out.println("Go!");
 		System.out.println("f2!");
 		System.out.println("mutli!");
+		System.out.println("f3!");
 	}
 
 }
