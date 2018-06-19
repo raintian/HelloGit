@@ -6,6 +6,9 @@ public class TestMain {
 		System.out.println("Good");
 		System.out.println("Go!");
 		System.out.println("f2!");
+		System.out.println("Go1!");
+		System.out.println("branch3!");
+		System.out.println("sourcetree!");
 	}
 
 }
